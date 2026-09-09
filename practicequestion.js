@@ -29,3 +29,4 @@ const Post={
     Comment:40,
     share:100,
 };
+console.log(Post);
