@@ -57,3 +57,4 @@ console.log(Student.age);
 
 // one more
 Student["Name"] = "Rahul Yadav";
+console.log(Student.Name);
