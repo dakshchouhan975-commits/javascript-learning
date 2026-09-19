@@ -17,5 +17,5 @@ for(i=0;i<prices.length;i++){
   let offer=prices[i]/10;
    prices[i]=prices[i]-offer;
 
-}
+}l
 console.log(prices);
